@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [AyoBots](https://github.com/Ayo-Bots/AyoBot)
 
+- 🌱 I’m currently learning **Next-JS, TS**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/fmuCPgCm3B" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fmuCPgCm3B" height="30" width="40" /></a>
